@@ -39,7 +39,6 @@ class _TabsState extends State<Tabs> {
           ],
           bottom: TabBar(
             tabs: [
-              // Icon(Icons.camera_alt_rounded, size:20, color: Colors.grey[400]),
               Text('Chats'),
               Text('Status'),
               Text('Calls'),

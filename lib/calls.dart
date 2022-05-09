@@ -12,7 +12,7 @@ class calls extends StatefulWidget {
 class _callsState extends State<calls> {
   @override
   var image = [
-    'assets/cad.png',
+    'assets/cad.jpg',
     'assets/pic.png',
     'assets/cap.png',
   ];

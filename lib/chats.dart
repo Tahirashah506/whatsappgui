@@ -16,11 +16,10 @@ class _chatsState extends State<chats> {
 'assets/pic.png',
 'assets/cap.png',
 'assets/tst.png',
-'assets/sts.png',
 'assets/qws.jpg',
-'assets/wad.png',
-'assets/cad.png',
-'assets/dnd.jpg',
+'assets/tah.jpg',
+'assets/cad.jpg',
+'assets/zxc.jpg',
  ];
  var name = [
   'Mam Naila',
